@@ -1,10 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190">
   <defs>
+    <!-- Define the gradient matching your footer colors -->
     <linearGradient id="kk-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#800000" />
       <stop offset="100%" stop-color="#FFD700" />
     </linearGradient>
+    
+    <!-- CSS for the fade-in animation and font styling -->
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      .logo-text {
+        font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        font-size: 150px;
+        font-weight: 800;
+        fill: url(#kk-gradient);
+        animation: fadeIn 1.5s ease-in-out;
+        letter-spacing: -2px;
+      }
+    </style>
   </defs>
-  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" 
-        style="font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-size: 150px; font-weight: 800; fill: url(#kk-gradient); letter-spacing: -2px;">KK</text>
+  
+  <!-- The actual text -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="logo-text">KK</text>
 </svg>
