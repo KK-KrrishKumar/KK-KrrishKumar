@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated KK logo: big, single vivid accent color, transparent background, pulsing glow -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=KK&fontColor=8B5CF6&fontSize=110&fontAlignY=42&height=160&animation=twinkling" width="320"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=KK&fontColor=8B5CF6&fontSize=200&fontAlignY=42&height=160&animation=twinkling" width="320"/>
 
 *Part time explorer, full time learner*
 
