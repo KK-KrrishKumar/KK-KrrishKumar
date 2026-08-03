@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190">
+  <defs>
+    <!-- Import a unique, futuristic font from Google Fonts -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&amp;display=swap');
+      
+      @keyframes fadeIn {
+        from { opacity: 0; transform: scale(0.95); }
+        to { opacity: 1; transform: scale(1); }
+      }
+      
+      .logo-text {
+        font-family: 'Orbitron', system-ui, sans-serif;
+        font-size: 140px;
+        font-weight: 900;
+        fill: url(#kk-gradient);
+        animation: fadeIn 1.5s ease-out;
+        letter-spacing: 4px;
+        /* Added a drop shadow to give it a 3D, floating effect */
+        filter: drop-shadow(0px 8px 12px rgba(0, 0, 0, 0.4));
+      }
+    </style>
+    
+    <!-- 3-Stop Gradient to prevent green muddying between yellow and blue -->
+    <linearGradient id="kk-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFD700" />   <!-- Golden Yellow -->
+      <stop offset="50%" stop-color="#0EA5E9" />   <!-- Bright Sky Blue -->
+      <stop offset="100%" stop-color="#1E3A8A" />  <!-- Deep Navy Blue -->
+    </linearGradient>
+  </defs>
+  
+  <!-- The actual text -->
+  <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="logo-text">KK</text>
+</svg>
