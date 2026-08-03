@@ -1,6 +1,7 @@
 <div align="center">
+<img src="./logo.svg" width="380" alt="KK Logo"/>
 
-*Part time explorer, full time learner*
+<h3><font color="#FFD700">Part time explorer, full time learner</font></h3>
 
 <!-- Typing animation (updated to match gold) -->
 <a href="#">
