@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190">
+svg_content = """<svg xmlns="http://www.w3.org/2000/svg" width="380" height="190" viewBox="0 0 380 190">
   <defs>
     <!-- Define the gradient matching your footer colors -->
     <linearGradient id="kk-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -25,4 +25,8 @@
   
   <!-- The actual text -->
   <text x="50%" y="55%" dominant-baseline="middle" text-anchor="middle" class="logo-text">KK</text>
-</svg>
+</svg>"""
+
+with open("logo.svg", "w") as f:
+    f.write(svg_content)
+print("logo.svg created successfully.")
