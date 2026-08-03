@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Animated KK logo: big, gradient, transparent background, pulsing glow -->
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDIwIiBoZWlnaHQ9IjE3MCIgdmlld0JveD0iMCAwIDQyMCAxNzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImtrR3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyMkQzRUUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM4QjVDRjYiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjRUM0ODk5Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjgiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDx0ZXh0IHg9IjIxMCIgeT0iMTE1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmb250LWZhbWlseT0iVmVyZGFuYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI5MDAiIGZvbnQtc2l6ZT0iMTI4IiBmaWxsPSJ1cmwoI2trR3JhZCkiIGZpbHRlcj0idXJsKCNnbG93KSI+CiAgICBLSwogICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iZm9udC1zaXplIiB2YWx1ZXM9IjExODsxMzI7MTE4IiBkdXI9IjIuNHMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIi8+CiAgPC90ZXh0Pgo8L3N2Zz4K" width="260"/>
+<!-- Animated KK logo: big, two-tone gradient look, transparent background, pulsing glow -->
+<p>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=K&fontColor=22D3EE&fontSize=130&fontAlignY=42&height=160&animation=twinkling" width="140" style="margin-right:-25px"/><img src="https://capsule-render.vercel.app/api?type=transparent&text=K&fontColor=EC4899&fontSize=130&fontAlignY=42&height=160&animation=twinkling" width="140" style="margin-left:-25px"/>
+</p>
 
 *Part time explorer, full time learner*
 
@@ -20,6 +22,7 @@
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="28"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </div>
 
