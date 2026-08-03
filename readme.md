@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- KK wordmark: big, single accent color, transparent background, animated -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=KK&fontColor=8B5CF6&fontSize=250&fontAlignY=45&height=190&animation=fadeIn" width="380"/>
+<img src="./logo.svg" width="380" alt="KK Logo"/>
 
 *Part time explorer, full time learner*
 
