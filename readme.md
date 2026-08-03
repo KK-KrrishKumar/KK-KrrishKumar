@@ -1,13 +1,10 @@
 <div align="center">
 
-<!-- KK wordmark: big, single accent color, transparent background, animated -->
-<img src="./logo.svg" width="380" alt="KK Logo"/>
-
 *Part time explorer, full time learner*
 
-<!-- Typing animation -->
+<!-- Typing animation (updated to match gold) -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=500&lines=Hi+!+My+Name+is+Krrish+Kumar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=500&lines=Hi+!+My+Name+is+Krrish+Kumar" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,4 +23,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6D28D9&height=120&section=footer" width="100%"/>
+<!-- Footer wave (updated to maroon to gold gradient) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:FFD700&height=120&section=footer" width="100%"/>
